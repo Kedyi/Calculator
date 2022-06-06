@@ -1,4 +1,2 @@
 * linguist-vendored
-*.HTML linguist-vendored=false
-*.TeX linguist-vendored=false
 *.python linguist-vendored=true
