@@ -1,2 +1,2 @@
-* linguist-vendored
-*.python linguist-vendored=true
+# .gitattributes file which reclassifies `.js` files as Java:
+*.python linguist-language=python
